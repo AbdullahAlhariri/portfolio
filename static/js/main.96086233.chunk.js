@@ -372,7 +372,7 @@
           { meta: "Freelance", metaInfo: "Available" },
           { meta: "Address", metaInfo: "Netherlands" },
           { meta: "phone", metaInfo: "+31620346683" },
-          { meta: "Email", metaInfo: "alhariri.abdu.2018@gamil.com" },
+          { meta: "Email", metaInfo: "alhariri.abdu.2018@gmail.com" },
           { meta: "Languages", metaInfo: "Arabic, Dutch, English" },
         ],
         v = function () {
