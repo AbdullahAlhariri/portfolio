@@ -494,7 +494,7 @@
                           Object(o.jsx)("div", {
                             className: "col-12 d-block d-sm-none",
                             children: Object(o.jsx)("img", {
-                              src: "img/hero/img-mobile.jpg",
+                              src: "./static/img/dark.jpg",
                               className: "img-fluid main-img-mobile",
                               alt: "about avatar",
                             }),
