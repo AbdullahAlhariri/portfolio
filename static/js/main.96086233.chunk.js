@@ -1808,8 +1808,8 @@
             l = Object(d.a)(a, 2),
             n = l[0],
             r = l[1],
-            // j = Object(i.useState)(!1),
-            // m = Object(d.a)(j, 2),
+            j = Object(i.useState)(!1),
+            m = Object(d.a)(j, 2),
             u = m[0],
             x = m[1],
             p = Object(i.useState)(!1),
@@ -1817,11 +1817,11 @@
             h = O[0],
             g = O[1],
             N = Object(i.useState)(!1),
-            // v = Object(d.a)(N, 2),
-            // f = v[0],
-            // y = v[1],
-            // w = Object(i.useState)(!1),
-            // k = Object(d.a)(w, 2),
+            v = Object(d.a)(N, 2),
+            f = v[0],
+            y = v[1],
+            w = Object(i.useState)(!1),
+            k = Object(d.a)(w, 2),
             C = k[0],
             _ = k[1],
             P = Object(i.useState)(!1),
@@ -1840,14 +1840,14 @@
             t(!c);
           }
           function Q() {
-            // r(!n);
+            r(!n);
           }
           function Z() {
             x(!u);
           }
-          // function $() {
-          //     g(!h);
-          // }
+          function $() {
+            g(!h);
+          }
           function ee() {
             y(!f);
           }
@@ -2949,7 +2949,7 @@
             t(!c);
           }
           function q() {
-            // r(!n);
+            r(!n);
           }
           function S() {
             x(!u);
@@ -3361,12 +3361,11 @@
           return Object(o.jsx)(o.Fragment, {
             children: Object(o.jsx)("form", {
               className: "contactform",
-              "data-netlify": "true",
-              action: "POST",
-              netlify: "",
-              onSubmit: c(function (e, s) {
-                s.target.reset(), console.log("Message submited: " + JSON.stringify(e));
-              }),
+              action: "https://formsubmit.co/alhariri.abdu.2018@gmail.com",
+              method: "POST",
+              // onSubmit: c(async function (e, s) {
+              //   s.target.reset(), console.log("Message submited: " + JSON.stringify(e));
+              // }),
               children: Object(o.jsxs)("div", {
                 className: "row",
                 children: [
@@ -3506,6 +3505,7 @@
                     children: Object(o.jsxs)("button", {
                       type: "submit",
                       className: "button",
+                      id: "submitBtn",
                       children: [
                         Object(o.jsx)("span", {
                           className: "button-text",
@@ -3948,7 +3948,7 @@
             t(!c);
           }
           function Q() {
-            // r(!n);
+            r(!n);
           }
           function Z() {
             p(!x);
@@ -5161,7 +5161,7 @@
             t(!c);
           }
           function q() {
-            // r(!n);
+            r(!n);
           }
           function S() {
             x(!u);
