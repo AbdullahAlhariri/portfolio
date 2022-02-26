@@ -3532,8 +3532,8 @@
             link: "https://twitter.com/AbdullahF35",
           },
           {
-            iconName: "fa fa-facebook",
-            link: "https://www.facebook.com/abdullah.alhariri.7583/",
+            iconName: "fa fa-linkedin",
+            link: "https://www.linkedin.com/in/abdullah-alhariri-6a3a2822b/",
           },
           // {
           //     iconName: "fa fa-dribbble",
