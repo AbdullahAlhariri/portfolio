@@ -427,8 +427,8 @@
             skillName: "REACT",
           },
           {
-            skillClass: "p25",
-            skillPercent: "25",
+            skillClass: "p35",
+            skillPercent: "35",
             skillName: "VUE",
           },
         ],
