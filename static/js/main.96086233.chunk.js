@@ -190,12 +190,12 @@
         b = c.n(m),
         u = [
           {
-            title: "2",
+            title: "3",
             subTitle1: "years of",
             subTitle2: "experience",
           },
           {
-            title: "15",
+            title: "28",
             subTitle1: "completed",
             subTitle2: "projects",
           },
@@ -302,6 +302,12 @@
         },
         h = [
           {
+            year: "2022-now",
+            position: "Software developer",
+            compnayName: "Wabber",
+            details: "Building software at Wabber",
+          },
+          {
             year: "2021",
             position: "UX Design",
             compnayName: "Udemy",
@@ -367,11 +373,11 @@
         N = [
           { meta: "first name", metaInfo: "Abdullah" },
           { meta: "last name", metaInfo: "Alhariri" },
-          { meta: "Age", metaInfo: "15 Years" },
+          { meta: "Age", metaInfo: "16 Years" },
           { meta: "Nationality", metaInfo: "Netherlands" },
           { meta: "Freelance", metaInfo: "Available" },
           { meta: "Address", metaInfo: "Netherlands" },
-          { meta: "phone", metaInfo: "+31620346683" },
+          { meta: "phone", metaInfo: "+31645402268" },
           { meta: "Email", metaInfo: "alhariri.abdu.2018@gmail.com" },
           { meta: "Languages", metaInfo: "Arabic, Dutch, English" },
         ],
@@ -400,36 +406,40 @@
         },
         f = [
           {
-            skillClass: "p95",
-            skillPercent: "95",
+            skillClass: "p75",
+            skillPercent: "75",
             skillName: "JAVASCRIPT",
           },
+          { skillClass: "p65", skillPercent: "65", skillName: "PHP" },
           {
-            skillClass: "p85",
-            skillPercent: "85",
+            skillClass: "p75",
+            skillPercent: "75",
+            skillName: "SYMFONY",
+          },
+          {
+            skillClass: "p45",
+            skillPercent: "45",
+            skillName: "LARAVEL",
+          },
+          {
+            skillClass: "p75",
+            skillPercent: "75",
+            skillName: "VUE",
+          },
+          {
+            skillClass: "p75",
+            skillPercent: "75",
             skillName: "NODEJS",
           },
           {
             skillClass: "p65",
             skillPercent: "65",
-            skillName: "HTML",
-          },
-          { skillClass: "p55", skillPercent: "55", skillName: "CSS" },
-          {
-            skillClass: "p55",
-            skillPercent: "55",
             skillName: "PYTHON",
           },
-          { skillClass: "p45", skillPercent: "45", skillName: "PHP" },
           {
-            skillClass: "p35",
-            skillPercent: "35",
-            skillName: "REACT",
-          },
-          {
-            skillClass: "p35",
-            skillPercent: "35",
-            skillName: "VUE",
+            skillClass: "p65",
+            skillPercent: "65",
+            skillName: "SELENIUM",
           },
         ],
         y = function () {
@@ -742,8 +752,8 @@
                   }),
                   " ",
                   Object(o.jsx)("a", {
-                    href: "Tel: +31620346683",
-                    children: "+31620346683",
+                    href: "Tel: +31645402268",
+                    children: "+31645402268",
                   }),
                 ],
               }),
