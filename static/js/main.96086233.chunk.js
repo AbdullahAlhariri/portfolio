@@ -374,7 +374,7 @@
           { meta: "first name", metaInfo: "Abdullah" },
           { meta: "last name", metaInfo: "Alhariri" },
           { meta: "Age", metaInfo: "16 Years" },
-          { meta: "Nationality", metaInfo: "Netherlands" },
+          { meta: "Nationality", metaInfo: "Syrian" },
           { meta: "Freelance", metaInfo: "Available" },
           { meta: "Address", metaInfo: "Netherlands" },
           { meta: "phone", metaInfo: "+31645402268" },
