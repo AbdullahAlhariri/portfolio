@@ -302,7 +302,13 @@
         },
         h = [
           {
-            year: "2022-now",
+            year: "2023-now",
+            position: "Software developer",
+            compnayName: "DPM Signage",
+            details: "Building software at DPM Signage",
+          },
+          {
+            year: "2022-2023",
             position: "Software developer",
             compnayName: "Wabber",
             details: "Building software at Wabber",
