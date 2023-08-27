@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="305b233d-24c5-4a77-9750-af518657c048" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/analytics.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/dropdown.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/mdx.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/nav.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/particles.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/contact/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/projects/[slug]/header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/projects/[slug]/mdx.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/projects/[slug]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/projects/[slug]/view.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/projects/article.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/projects/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/projects/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/access.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/chronark.com.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/envshare.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/highstorm.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/planetfall.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/qstash.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/terraform-provider-vercel.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/unkey.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/upstash-auth-analytics.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/upstash-cli.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/upstash-edge-flags.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/upstash-kafka.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/upstash-qstash-sdk.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/upstash-ratelimit-analytics" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/upstash-ratelimit.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/upstash-react-ui.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/upstash-web-analytics.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/zod-bird.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contentlayer.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mdx-components.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/incr.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/CalSans-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/resume/en.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/resume/en.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/resume/nl.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/resume/nl.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rome.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/mdx.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/mouse.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/profile.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/2.441d864e.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.e9a58ea6.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/cancel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/dark.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/old_dark.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/projects/project-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/projects/project-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/projects/project-3,1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/projects/project-3,2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/projects/project-3,3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/projects/project-3,4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/projects/project-3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/projects/project-4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/projects/project-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/projects/project-6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.ab987286.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.96086233.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/fontawesome-webfont.1e59d233.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/fontawesome-webfont.20fd1704.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/fontawesome-webfont.8b43027f.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/fontawesome-webfont.c1e38fd9.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/fontawesome-webfont.f691f37e.woff" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2UYfuwo3A1MpRgXwfTlBqcEtjlL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.laravel-idea.search-composer-json": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/abdullah/Documents/projects/portfolio/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/home/abdullah/Documents/projects/portfolio/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/resume" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="305b233d-24c5-4a77-9750-af518657c048" name="Changes" comment="" />
+      <created>1693121661584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693121661584</updated>
+      <workItem from="1693121662567" duration="1339000" />
+      <workItem from="1693123089982" duration="10382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="additionalRoots">
+      <list>
+        <option value="$PROJECT_DIR$/.contentlayer/generated" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+  </component>
+</project>
