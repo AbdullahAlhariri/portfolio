@@ -10,24 +10,24 @@ export default function Home() {
 				className="absolute inset-0 animate-fade-in"
 				quantity={2000}
 			/>
-			{/*<nav className="my-10 animate-fade-in">*/}
-			{/*	<ul className="flex items-center justify-center ml-4">*/}
+			<nav className="my-10 animate-fade-in">
+				<ul className="flex items-center justify-center ml-4">
 
-			{/*		<Link*/}
-			{/*			href="/projects"*/}
-			{/*			className="text-sm duration-500 text-zinc-500 hover:text-zinc-300"*/}
-			{/*		>*/}
-			{/*			Projects*/}
-			{/*		</Link>*/}
-			{/*		<Link*/}
-			{/*			href="/contact"*/}
-			{/*			className="text-sm duration-500 text-zinc-500 hover:text-zinc-300 ml-4"*/}
-			{/*		>*/}
-			{/*			Contact*/}
-			{/*		</Link>*/}
-			{/*		<Dropdown />*/}
-			{/*	</ul>*/}
-			{/*</nav>*/}
+					{/*<Link*/}
+					{/*	href="/projects"*/}
+					{/*	className="text-sm duration-500 text-zinc-500 hover:text-zinc-300"*/}
+					{/*>*/}
+					{/*	Projects*/}
+					{/*</Link>*/}
+					<Link
+						href="/contact"
+						className="text-sm duration-500 text-zinc-500 hover:text-zinc-300 ml-4"
+					>
+						Contact
+					</Link>
+					<Dropdown />
+				</ul>
+			</nav>
 			<div className="hidden w-screen h-px animate-glow md:block animate-fade-left bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
 			<h1 className="z-10 text-4xl text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text ">
 				Abdullah
