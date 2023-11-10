@@ -19,9 +19,9 @@ const socials = [
 	},
 	{
 		icon: <Github size={20} />,
-		href: "https://github.com/abdullah-alhariri",
+		href: "https://github.com/AbdullahAlhariri",
 		label: "Github",
-		handle: "Abdullah-Alhariri",
+		handle: "AbdullahAlhariri",
 	},
 ];
 
